@@ -7,7 +7,7 @@ public class BattleCard : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Card cardName;
     }
 
     // Update is called once per frame
